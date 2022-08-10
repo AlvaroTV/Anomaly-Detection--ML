@@ -1,5 +1,5 @@
-# Credit-Card-Fraud-Detection--Clustering
-Credit Card Fraud Detection using Clustering
+# Credit-Card-Fraud-Detection
+Anomaly detection of a credit cards dataset 
 
 ## Description
 
